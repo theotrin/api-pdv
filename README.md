@@ -1,7 +1,40 @@
 # desafio-backend-05-pdv-dbe-b2b-t07-ifood
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio Módulo 5 - Backend
+# API PDV 
+Essa API foi o projeto final proposto pela Cubos Academy em parceria com o iFood, onde pude colocar em prática 6 meses densos de conhecimento em backend, além de trabalhar em equipe, pois o projeto foi feito por mim e por 5 alunos escolhidos aleatoriamente de uma turma de 120 pessoas.
+
+Depois de 6 meses praticando a fundo programação backend, a parte técnica até que foi fácil. Porém, o desafio de fazer o projeto todo funcionar com várias pessoas diferentes e com diferenças de horário foi uma experiência e tanto. Trabalhamos com Git, dividimos o trabalho em partes, utilizamos a metodologia ágil em forma de scrum e fizemos sprints toda semana para a entrega de partes do projeto a cada uma semana.
+
+
+
+## Habilidades aprendidas:
+- Conhecimentos em Node.js
+- Conhecimentos em Express
+- Conhecimentos em JWT
+- Conhecimentos em Postman
+- Conhecimentos em PostgreSQL
+- Conhecimentos em Supabase
+- Conhecimentos em Bcrypt
+- Conhecimentos básicos em Upload de arquivos
+- Deploy
+
+## Desafios:
+
+- Desafio 1: Criar um banco de dados PostgreSQL e criar as tabelas e colunas conforme especificado nos requisitos.
+- Desafio 2: Implementar as funcionalidades de cadastro, edição, listagem, detalhamento e exclusão de usuário.
+- Desafio 3: Implementar as funcionalidades de cadastro, edição, listagem, detalhamento e exclusão de produto.
+- Desafio 4: Implementar as funcionalidades de cadastro, listagem, edição e exclusão de pedido.
+- Desafio 5: Aplicar uma regra de negócio que não permita exclusão de produto que tenha sido registrado em algum pedido.
+- Desafio 6: Aprimorar o cadastro e a atualização de produto para permitir vincular uma imagem a um produto.
+- Desafio 7: Aprimorar a exclusão de produto para que quando o produto for excluído também seja removida a imagem vinculada a ele na servidor de armazenamento.
+
+
+
+# Detalhes e desafios proposto pela Cubos Academy
+
+
+## Desafio Módulo 5 - Backend
 
 Seja bem vindo(a) ao desafio do módulo 5.
 
